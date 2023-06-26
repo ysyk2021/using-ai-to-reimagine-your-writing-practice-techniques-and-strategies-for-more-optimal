@@ -23,10 +23,10 @@ Yoast SEO
 
 Yoast SEO is an AI-powered plugin for WordPress that can optimize content for search engines. It can analyze written content and provide suggestions for improving its visibility and relevance in search results. Yoast SEO is particularly useful for writers who want to improve the search engine rankings of their written content.
 
-GPT-3
+GPT-3.5
 -----
 
-GPT-3 is a state-of-the-art AI language model that can generate human-like text and assist with various writing tasks. It has been trained on a massive dataset of written content and can be used for tasks such as language translation, summarization, and question answering. GPT-3 is one of the most advanced AI tools for writing practice, and it has the potential to revolutionize the way we approach writing.
+GPT-3.5 is a state-of-the-art AI language model that can generate human-like text and assist with various writing tasks. It has been trained on a massive dataset of written content and can be used for tasks such as language translation, summarization, and question answering. GPT-3.5 is one of the most advanced AI tools for writing practice, and it has the potential to revolutionize the way we approach writing.
 
 Kafkai
 ------
@@ -38,4 +38,4 @@ ProWritingAid
 
 ProWritingAid is an AI-powered writing assistant that provides grammar and spelling corrections, style suggestions, and more. It can be used as a browser extension or installed as a desktop application. ProWritingAid is particularly useful for writers who need detailed feedback on their writing style and want to improve the overall effectiveness of their written content.
 
-In conclusion, there are many different tools and platforms available for AI-enabled writing practice, including Grammarly, QuillBot, Copyscape, Yoast SEO, GPT-3, Kafkai, and ProWritingAid. By using these tools and platforms, writers can streamline their writing process, improve the quality of their writing, and achieve more optimal writing outcomes.
+In conclusion, there are many different tools and platforms available for AI-enabled writing practice, including Grammarly, QuillBot, Copyscape, Yoast SEO, GPT-3.5, Kafkai, and ProWritingAid. By using these tools and platforms, writers can streamline their writing process, improve the quality of their writing, and achieve more optimal writing outcomes.

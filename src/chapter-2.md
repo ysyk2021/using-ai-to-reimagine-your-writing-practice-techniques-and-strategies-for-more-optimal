@@ -33,7 +33,7 @@ There are many different tools and platforms available for AI-enabled writing pr
 * QuillBot - an AI-powered writing tool that can rephrase sentences, paraphrase text, and generate new content ideas.
 * Copyscape - an AI-powered plagiarism checker that can identify instances of duplicate content.
 * Yoast SEO - an AI-powered plugin for WordPress that can optimize content for search engines.
-* GPT-3 - a state-of-the-art AI language model that can generate human-like text and assist with various writing tasks.
+* GPT-3.5 - a state-of-the-art AI language model that can generate human-like text and assist with various writing tasks.
 
 By using these tools and platforms, writers can streamline their writing process, improve the quality of their writing, and achieve more optimal writing outcomes.
 

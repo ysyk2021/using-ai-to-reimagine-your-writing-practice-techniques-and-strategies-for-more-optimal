@@ -35,6 +35,6 @@ Image recognition is another AI technique that can provide inspiration for write
 
 ### Text Generation
 
-Finally, text generation is an AI technique that can be used to generate new content and inspiration. This can be particularly useful for generating headlines, titles, and other short-form content. Tools like GPT-3 and Hugging Face can be used for text generation.
+Finally, text generation is an AI technique that can be used to generate new content and inspiration. This can be particularly useful for generating headlines, titles, and other short-form content. Tools like GPT-3.5 and Hugging Face can be used for text generation.
 
 In conclusion, writer's block can be a major challenge for writers, but with the help of AI, writers can overcome this challenge and generate new ideas and inspiration. From idea generation tools to sentiment analysis and text generation, there are many AI techniques available that can enhance the writing process and reduce writer's block. So go forth and explore these AI techniques for structured writing practice!
