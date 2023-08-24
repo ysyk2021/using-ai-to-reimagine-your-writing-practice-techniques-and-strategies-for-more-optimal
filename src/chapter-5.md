@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Innovative Writing Practice
-========================================================
 
 While AI can certainly help with the technical aspects of writing, it can also be used to foster novelty and creativity in writing practice. In this chapter, we will explore some AI strategies that can help writers push the boundaries of their writing and innovate in new ways.
 

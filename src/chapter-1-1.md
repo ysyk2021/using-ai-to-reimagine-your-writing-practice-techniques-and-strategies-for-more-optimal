@@ -1,5 +1,3 @@
-The Importance of Developing a Structured Writing Routine
-==================================================================================
 
 In addition to the use of AI technology, developing a structured writing routine is also crucial for achieving optimal writing outcomes. In this chapter, we will explore why having a structured writing routine is important and how it can be developed.
 

@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Practice
-===============================================
 
 The use of artificial intelligence (AI) in writing practice has the potential to transform the way we approach writing. In this chapter, we will explore the impact of AI on writing practice.
 

@@ -1,5 +1,3 @@
-Transforming Writing Practice from Passive to Active and Dynamic
-=================================================================================================================
 
 Artificial intelligence (AI) is transforming the way we approach writing practice. In this chapter, we will explore how AI is transforming writing practice from a passive process to an active and dynamic one.
 

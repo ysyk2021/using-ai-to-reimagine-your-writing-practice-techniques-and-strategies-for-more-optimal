@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Practice
-================================================================================================================
 
 There are many different tools and platforms available for AI-enabled writing practice. In this chapter, we will explore some of the most popular and effective tools and platforms for AI-enabled writing practice.
 

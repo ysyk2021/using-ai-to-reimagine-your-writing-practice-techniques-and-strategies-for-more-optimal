@@ -1,5 +1,3 @@
-Improving Quality, Efficiency, and Relevance of Writing Outputs
-================================================================================================================
 
 Artificial intelligence (AI) is transforming the way we approach writing practice. In this chapter, we will explore how AI is improving the quality, efficiency, and relevance of writing outputs.
 

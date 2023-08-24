@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enhanced Writing Practice
-============================================================
 
 AI can be a powerful tool for enhancing writing practice, but getting started can be overwhelming. In this chapter, we will explore some key steps to getting started with AI-enhanced writing practice.
 

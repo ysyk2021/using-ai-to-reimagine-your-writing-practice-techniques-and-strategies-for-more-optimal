@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Writing Practice
-===================================================================================================================================
 
 AI technology can be used in a variety of ways to enhance writing practice. In this chapter, we will explore different types of AI techniques and applications that can be used in writing practice.
 

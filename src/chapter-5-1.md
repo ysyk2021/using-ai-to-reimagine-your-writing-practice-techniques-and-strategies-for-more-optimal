@@ -1,5 +1,3 @@
-Fostering Novelty and Creativity with AI-Enabled Idea Generation and Brainstorming
-============================================================================================================================================
 
 Innovation and creativity are essential for any writer looking to break out of a creative rut and produce original work. Fortunately, AI can be a powerful tool for generating new ideas and fostering creativity in writing practice. In this chapter, we will explore some AI strategies that can help writers push the boundaries of their writing and foster novelty and creativity.
 

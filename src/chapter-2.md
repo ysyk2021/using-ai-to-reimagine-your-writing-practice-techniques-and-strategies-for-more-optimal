@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Practice
-===========================================================
 
 To effectively use AI technology in writing practice, it's important to understand the basic concepts and processes of AI algorithms for writing analysis and optimization, different types of AI techniques and applications for writing practice, and tools and platforms for AI-enabled writing practice. In this chapter, we will explore these key topics.
 

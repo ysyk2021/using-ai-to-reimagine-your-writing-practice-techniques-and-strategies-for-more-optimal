@@ -1,5 +1,3 @@
-Selecting the Right AI Tools and Platforms for Your Writing Practice Needs
-========================================================================================================================================
 
 Now that we know how AI can enhance writing practice, it's important to select the right AI tools and platforms to meet our specific writing needs. In this chapter, we will explore some key considerations when selecting AI tools and platforms for enhanced writing practice.
 

@@ -1,5 +1,3 @@
-Leveraging AI-Enabled Tools and Techniques for Enhanced Collaboration and Feedback
-============================================================================================================================================
 
 Artificial intelligence (AI) can be used to enhance collaboration and feedback in writing practice, leading to more innovative and effective writing outcomes. In this chapter, we will explore AI strategies for innovative writing practice.
 

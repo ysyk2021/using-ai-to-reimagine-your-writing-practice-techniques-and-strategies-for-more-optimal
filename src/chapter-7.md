@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Practice
-==========================================================
 
 Artificial intelligence (AI) is transforming writing practice, but it's crucial to evaluate its impact in a meaningful way. In this chapter, we will explore how to measure the ROI and effectiveness of AI implementation in writing practice, as well as identify key performance metrics and goals for AI-enhanced writing practice.
 
