@@ -8,3 +8,7 @@ This book covers a wide range of topics related to AI-driven writing techniques 
 Readers will learn how to develop effective AI-driven writing strategies, enhance their creative thinking, and gain insights into new writing opportunities. This book is an essential resource for professional writers, bloggers, students, researchers, and anyone interested in learning about the latest advancements in AI-driven writing.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
