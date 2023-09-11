@@ -1,5 +1,4 @@
-Chapter 9: Enabling Continuous Learning and Improvement in Writing Practice
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can enable continuous learning and improvement in writing practice. By leveraging AI technologies, writers can receive feedback, access learning resources, and engage in ongoing development to enhance their skills and achieve more optimal writing outcomes.
 

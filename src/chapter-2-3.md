@@ -1,5 +1,4 @@
-Chapter 5: Tools and Platforms for AI-Enabled Writing Practice
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various tools and platforms that facilitate AI-enabled writing practice. These tools empower writers to leverage AI technologies, enhance their writing process, and achieve more optimal writing outcomes.
 

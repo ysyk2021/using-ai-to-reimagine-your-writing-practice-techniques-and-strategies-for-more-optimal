@@ -1,5 +1,4 @@
-Chapter 7: Reducing Writer's Block with AI-Enabled Idea Generation and Inspiration
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can help reduce writer's block by providing AI-enabled idea generation and inspiration tools. By leveraging AI technologies, writers can overcome creative barriers, spark new ideas, and find inspiration to fuel their writing practice.
 

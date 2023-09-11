@@ -1,5 +1,4 @@
-Chapter 6: Improving Quality, Efficiency, and Relevance of Writing Outputs
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques and strategies for using AI to enhance the quality, efficiency, and relevance of writing outputs. By leveraging AI technologies, writers can optimize their writing practice and achieve better outcomes in terms of content quality, productivity, and audience engagement.
 

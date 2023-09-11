@@ -1,5 +1,4 @@
-Chapter 10: Transforming Writing Practice from Passive to Active and Dynamic
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can transform writing practice from a passive and static process into an active and dynamic one. By leveraging AI technologies, writers can engage in interactive and iterative writing experiences that promote creativity, collaboration, and continuous improvement.
 

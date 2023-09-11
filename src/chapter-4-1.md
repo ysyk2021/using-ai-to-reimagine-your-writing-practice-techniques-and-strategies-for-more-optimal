@@ -1,5 +1,4 @@
-Chapter 8: Enhancing Time Management and Productivity with AI-Enabled Planning and Task Management
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-enabled planning and task management tools can enhance time management and productivity for writers. By leveraging AI technologies, writers can optimize their workflow, effectively manage their tasks, and achieve more optimal writing outcomes.
 

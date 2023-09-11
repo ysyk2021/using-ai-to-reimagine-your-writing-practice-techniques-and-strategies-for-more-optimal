@@ -1,5 +1,4 @@
-Chapter 7: Leveraging AI-Enabled Tools and Techniques for Enhanced Collaboration and Feedback
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-enabled tools and techniques can enhance collaboration and provide valuable feedback in the writing process. By leveraging AI, writers can engage in more effective collaboration, receive insightful feedback, and achieve more optimal writing outcomes.
 

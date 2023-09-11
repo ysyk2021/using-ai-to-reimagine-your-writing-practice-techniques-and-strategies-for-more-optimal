@@ -1,5 +1,4 @@
-Chapter 9: Measuring the ROI and Effectiveness of AI Implementation in Writing Practice
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial aspect of measuring the Return on Investment (ROI) and effectiveness of implementing AI in writing practice. By understanding how to assess the impact and value of AI technologies, writers can make informed decisions, optimize their writing processes, and achieve more optimal writing outcomes.
 

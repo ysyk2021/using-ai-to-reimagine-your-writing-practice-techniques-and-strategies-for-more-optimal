@@ -1,5 +1,4 @@
-Chapter 7: Fostering Novelty and Creativity with AI-Enabled Idea Generation and Brainstorming
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-enabled idea generation and brainstorming can foster novelty and creativity in writing practice. By leveraging AI technologies, writers can overcome creative blocks, generate fresh ideas, and enhance their creative thinking processes for more optimal writing outcomes.
 
